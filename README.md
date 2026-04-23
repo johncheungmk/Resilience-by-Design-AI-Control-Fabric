@@ -3,7 +3,7 @@
 **Author:** John Cheung  
 **Affiliation:** College of Professional and Continuing Education
 
-[Download PDF](https://github.com/johncheungmk/Resilience-by-Design-AI-Control-Fabric/blob/main/racf.pdf?raw=1)
+[Download PDF](https://github.com/johncheungmk/Resilience-by-Design-AI-Control-Fabric/blob/main/racf.pdf)
 
 ## Abstract
 
