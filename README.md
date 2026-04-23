@@ -3,6 +3,8 @@
 **Author:** John Cheung  
 **Affiliation:** College of Professional and Continuing Education
 
+[Download PDF](https://github.com/johncheungmk/Resilience-by-Design-AI-Control-Fabric/blob/main/racf.pdf?raw=1)
+
 ## Abstract
 
 Enterprises are rapidly embedding large language models (LLMs) and related generative AI services into customer support, software development, analytics, search, compliance, and internal operations. This creates a new class of operational dependency: core business processes now rely on external model providers, rapidly changing model versions, vendor-specific tool ecosystems, and safety or account-control mechanisms that may behave differently across providers. Traditional resilience patterns such as multi-region deployment or cloud failover are necessary but insufficient because AI failures are not limited to infrastructure downtime; they also include silent quality degradation, tool-use instability, model retirement, policy shifts, quota exhaustion, and control-plane lockout. This paper reviews common approaches to enterprise AI resilience, identifies their limitations, and proposes a new enterprise framework: **Resilience-by-Design AI Control Fabric (RACF)**. RACF treats AI as a governed capability layer rather than a single model integration. It combines policy-based routing, cross-model abstractions, capability-aware fallback, evaluation gates, state portability, human override, and resilience observability. The framework aims to reduce single-provider concentration risk while preserving safety, compliance, and cost discipline.
